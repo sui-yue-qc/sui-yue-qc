@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sui-yue-qc
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning MySQL database.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 📧:sui-yue-qc@139.com
 
 
